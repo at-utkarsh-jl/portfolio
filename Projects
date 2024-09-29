@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - Utkarsh Jindal</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="achievements.html">Achievements</a></li>
+                <li><a href="projects.html">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <div class="project">
+            <h3>Room Allocation Web App</h3>
+            <p>A tool to efficiently allocate rooms in hostels based on group ID, gender, and capacity. The project utilizes HTML, CSS, JavaScript, and Python for backend logic.</p>
+            <p>Technologies: HTML, CSS, JavaScript, Python</p>
+            <p><a href="https://github.com/username/room-allocation-app">View Project</a></p>
+        </div>
+
+        <div class="project">
+            <h3>E-commerce Website</h3>
+            <p>An online platform for selling products with an integrated payment gateway. Developed using HTML, CSS, Node.js, and MongoDB for product management and payments.</p>
+            <p>Technologies: HTML, CSS, Node.js, MongoDB</p>
+            <p><a href="https://github.com/username/e-commerce-website">View Project</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 Utkarsh Jindal. All rights reserved.</p>
+    </footer>
+</body>
+</html>
