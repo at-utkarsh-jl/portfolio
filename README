@@ -1,0 +1,18 @@
+# Personal Website
+
+This is my personal website built to showcase my achievements, ongoing work, and projects.
+
+## How to Run
+
+1. Clone the repository.
+2. Open `index.html` in your web browser.
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## Design Choices
+
+- Responsive design for all devices (desktop, tablet, and mobile).
+- Clean and modern UI with easy-to-use navigation.
