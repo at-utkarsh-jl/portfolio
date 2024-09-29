@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Utkarsh Jindal - Portfolio</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="achievements.html">Achievements</a></li>
+                <li><a href="projects.html">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h1>Hello! I'm Utkarsh Jindal</h1>
+        <p>Welcome to my personal website. I'm a B.Tech student in Electronics and Communication Engineering at S.K.I.T. Jaipur. Explore my achievements, ongoing work, and past projects!</p>
+    </section>
+
+    <footer>
+        <p>© 2024 Utkarsh Jindal. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
